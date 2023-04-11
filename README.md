@@ -2,6 +2,7 @@
 
 Welcome to the **AI Pioneers DataScience Arena** repository! This repository is dedicated to the **AI Amigos** team's participation in the **Artificial Intelligence (AI) competition** with a focus on Data Science.
 
+<img src="resources/teams.png">
 
 # About the Competition
 
